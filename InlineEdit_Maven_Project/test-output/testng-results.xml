@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="122727" started-at="2019-09-11T12:06:41Z" finished-at="2019-09-11T12:08:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="122727" started-at="2019-09-11T12:06:41Z" finished-at="2019-09-11T12:08:44Z">
+      <class name="inline.execution_part.Execution_For_All_Functions">
+        <test-method status="PASS" signature="browser()[pri:0, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b]" name="browser" is-config="true" duration-ms="8640" started-at="2019-09-11T17:36:41Z" finished-at="2019-09-11T17:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="sign_In()[pri:0, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b]" name="sign_In" duration-ms="51593" started-at="2019-09-11T17:36:50Z" finished-at="2019-09-11T17:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_In -->
+        <test-method status="PASS" signature="webpage_click()[pri:1, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b]" name="webpage_click" duration-ms="29997" started-at="2019-09-11T17:37:41Z" finished-at="2019-09-11T17:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webpage_click -->
+        <test-method status="PASS" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b]" name="Screenshot" is-config="true" duration-ms="0" started-at="2019-09-11T17:37:41Z" finished-at="2019-09-11T17:37:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sign_In status=SUCCESS method=Execution_For_All_Functions.sign_In()[pri:0, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method status="PASS" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b]" name="Screenshot" is-config="true" duration-ms="0" started-at="2019-09-11T17:38:11Z" finished-at="2019-09-11T17:38:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=webpage_click status=SUCCESS method=Execution_For_All_Functions.webpage_click()[pri:1, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method status="PASS" signature="insertVideo()[pri:5, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b]" name="insertVideo" duration-ms="32454" started-at="2019-09-11T17:38:11Z" finished-at="2019-09-11T17:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertVideo -->
+        <test-method status="PASS" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b]" name="Screenshot" is-config="true" duration-ms="1" started-at="2019-09-11T17:38:44Z" finished-at="2019-09-11T17:38:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=insertVideo status=SUCCESS method=Execution_For_All_Functions.insertVideo()[pri:5, instance:inline.execution_part.Execution_For_All_Functions@13c78c0b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+      </class> <!-- inline.execution_part.Execution_For_All_Functions -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
